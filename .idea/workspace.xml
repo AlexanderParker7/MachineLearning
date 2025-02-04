@@ -4,22 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d415d18-e122-4603-8884-a33d26612089" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Chapt-01 Introduction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Chapt-03_MathComputation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportsScripts/grcodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW1.py" afterDir="false" />
+    <list default="true" id="2d415d18-e122-4603-8884-a33d26612089" name="Changes" comment="Updates to file, includes up to the dataset">
+      <change afterPath="$PROJECT_DIR$/Homework/HW2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW2Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/Chapt-03_MathComputation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/Chapt-03_MathComputation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,11 +51,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.HW2.executor": "Run",
+    "Python.HW2Color.executor": "Run",
+    "Python.Homework2.executor": "Run",
     "Python.commonImports.executor": "Run",
     "Python.grcodes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ajpti/PythonProjects/MachineLearning/MachineLearning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,15 +87,34 @@
       <updated>1737063181664</updated>
       <workItem from="1737063182706" duration="1764000" />
       <workItem from="1737066475099" duration="1422000" />
-      <workItem from="1737491353838" duration="2782000" />
+      <workItem from="1737491353838" duration="3789000" />
+      <workItem from="1738180973552" duration="49000" />
+      <workItem from="1738272179451" duration="2075000" />
+      <workItem from="1738692146405" duration="2860000" />
     </task>
+    <task id="LOCAL-00001" summary="Updates to file, includes up to the dataset">
+      <option name="closed" value="true" />
+      <created>1737494282588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737494282588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates to file, includes up to the dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates to file, includes up to the dataset" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MachineLearning$grcodes.coverage" NAME="grcodes Coverage Results" MODIFIED="1737079600479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grbin" />
     <SUITE FILE_PATH="coverage/Chapt_03_MathComputation_ipynb$commonImports.coverage" NAME="commonImports Coverage Results" MODIFIED="1737491472485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImportsScripts" />
+    <SUITE FILE_PATH="coverage/Chapt_03_MathComputation_ipynb$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1738694981028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework" />
+    <SUITE FILE_PATH="coverage/Chapt_03_MathComputation_ipynb$HW2Color.coverage" NAME="HW2Color Coverage Results" MODIFIED="1738694222021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework" />
+    <SUITE FILE_PATH="coverage/Chapt_03_MathComputation_ipynb$Homework2.coverage" NAME="Homework2 Coverage Results" MODIFIED="1738273016877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework" />
   </component>
 </project>
